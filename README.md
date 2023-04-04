@@ -2,7 +2,7 @@
 Title: Setting Up a Docker Environment and Deploying a Containerized Application on AWS EC2 Using Terraform
 
 Objective:
-As a new Jr. DevOps Engineer, your task is to set up a Docker environment on an AWS EC2 instance 
+The task is to set up a Docker environment on an AWS EC2 instance 
 using Terraform and deploy a containerized application using Docker CLI. 
 You will create a basic Terraform configuration file that provisions an EC2 instance, 
 installs Docker, and configures the instance for remote SSH access. 
